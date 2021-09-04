@@ -1,17 +1,17 @@
-# 한정수 포트폴리오
->캐치 프레이즈
+# 이상민 포트폴리오
+>기본기에 충실한 개발자
 
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+백엔드 개발자 이상민입니다.
 
 </br>
 
 ## :pushpin: Contact
-- 이메일: rhep0828@gmail.com
-- 블로그: https://ryan-han.com
-- 깃헙: https://github.com/integerous
+- 이메일: skyslayer123@naver.com
+- 블로그: https://armyparty.tistory.com/
+- 깃헙: https://github.com/skysamer
 
 </br>
 
