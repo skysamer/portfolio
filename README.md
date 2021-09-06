@@ -16,15 +16,14 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [goQuality](https://github.com/Integerous/goQuality)
->고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
->개발 기간: 2019.2.18 ~ 2019.4.5  
+### 1. [smBoardProject](https://github.com/skysamer/smBoardProject)
+>게시판 웹 프로젝트 (개인 프로젝트)  
+>개발 기간: 2021.09.01 ~ 
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>Java 8 / Spring / Maven / MyBatis / 
+ Oracle / Spring Security / BootStrap / 
+>[프로젝트 상세 설명](https://github.com/skysamer/smBoardProject) 참고
 
 ---
 
