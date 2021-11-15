@@ -28,13 +28,13 @@
 
 ---
 
-### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+### 2. [도로공사 교통예보시스템 고도화 프로젝트]()
+>두 번째 프로젝트 간략 소개  (회사 프로젝트)  
+>개발 기간: 2021.7.09 ~ 2021.11.30  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 8 / Spring / Maven / MyBatis
+>QueryDSL / Oracle 
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
