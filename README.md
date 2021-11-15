@@ -33,8 +33,7 @@
 >개발 기간: 2021.7.09 ~ 2021.11.30  
 >  
 >기술 스택:  
->Java 8 / Spring / Maven / MyBatis
->QueryDSL / Oracle 
+>Java 8 / Spring / Maven / MyBatis / Oracle 
 >  
 >[프로젝트 상세 설명](https://github.com/skysamer/portfolio/blob/main/ex_forecast.md) 참고
 
