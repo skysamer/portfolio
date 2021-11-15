@@ -31,22 +31,22 @@
 ## 4. 핵심 기능
 - 본선 고속도로의 ic-ic 구간 별 교통량 데이터 표출
 - 본선 고속도로를 우회하여 주행하는 개별차량에 대한 데이터 표출
-- 분석 휴게소 별 개별 차량에 대한 휴게소 이용 데이터 
+- 분석 휴게소 별 개별 차량에 대한 휴게소 이용 데이터 표출
 
 
 
 ### 4.1. 전체 흐름
-![](https://zuminternet.github.io/images/portal/post/2019-04-22-ZUM-Pilot-integer/flow1.png)
+![](<img width="831" alt="플로우 차트" src="https://user-images.githubusercontent.com/73572543/141733666-c624db7b-a855-4f2f-9ba8-8a77e733fabb.png">)
 
 ### 4.2. 사용자 요청
 ![](https://zuminternet.github.io/images/portal/post/2019-04-22-ZUM-Pilot-integer/flow_vue.png)
 
-- **URL 정규식 체크** :pushpin: [코드 확인](https://github.com/Integerous/goQuality/blob/b587bbff4dce02e3bec4f4787151a9b6fa326319/frontend/src/components/PostInput.vue#L67)
+- **데이터 항목 별 조건 설정** 
   - Vue.js로 렌더링된 화면단에서, 사용자가 등록을 시도한 URL의 모양새를 정규식으로 확인합니다.
   - URL의 모양새가 아닌 경우, 에러 메세지를 띄웁니다.
 
-- **Axios 비동기 요청** :pushpin: [코드 확인]()
-  - URL의 모양새인 경우, 컨텐츠를 등록하는 POST 요청을 비동기로 날립니다.
+- **Ajax 비동기 요청** 
+  - 데이터 표 조회 버튼 클릭 시, 데이터를 표출하는 POST 요청을 비동기로 날립니다.
 
 ### 4.3. Controller
 
