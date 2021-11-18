@@ -131,6 +131,16 @@
 </div>
 </details>
 
+<details>
+<summary>INSERT INTO SELECT 성능 개선 문제</summary>
+<div markdown="1">
+
+- /*+append*/ 힌트 활용
+- nologging 테이블로 변경
+
+</div>
+</details>
+
 ## 7. 회고록
 ### 7.1. 소통과 협의의 중요성
 
