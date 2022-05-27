@@ -18,7 +18,7 @@
 ## :pushpin: Projects
 ### 1. [smBoardProject](https://github.com/skysamer/smBoardProject)
 >게시판 웹 프로젝트 (개인 프로젝트)  
->개발 기간: 2021.09.01 ~ 
+>개발 기간: 2021.09.01 ~ 2022.02.23
 >  
 >기술 스택:  
 >Java 8 / Spring / Maven / MyBatis / 
