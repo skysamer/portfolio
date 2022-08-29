@@ -1,7 +1,4 @@
 # 포트폴리오 저장소
->back-end web portfolio
-
-</br>
 
 ### 1. [사내 전사관리시스템 'Billie'](https://github.com/skysamer/billie-springboot/blob/master/README.md)
 >사내전사관리용 웹 어플리케이션 (사내 사이드 프로젝트)  
